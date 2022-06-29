@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.18"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
